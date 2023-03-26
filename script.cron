@@ -1,0 +1,2 @@
+*/2 * * * * /home/ec2-user/projet/bitcoin.sh
+0 20 * * * /home/ec2-user/projet/rapport.py
